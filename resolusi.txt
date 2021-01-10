@@ -3,3 +3,4 @@ Resolusi
 - Membuat web
 - Memiliki motor
 - Memiliki komputer
+- Merakit komputer sediri
