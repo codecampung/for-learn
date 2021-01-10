@@ -1,0 +1,3 @@
+Resolusi
+- Memahami tentang pengembangan web
+- Membuat web
