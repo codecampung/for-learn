@@ -1,3 +1,5 @@
 Resolusi
 - Memahami tentang pengembangan web
 - Membuat web
+- Memiliki motor
+- Memiliki laptop
