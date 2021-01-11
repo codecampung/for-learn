@@ -3,3 +3,4 @@ Resolusi
 - Membuat web
 - Memiliki motor
 - Merakit komputer sediri
+- Menginstall linux di komputer
