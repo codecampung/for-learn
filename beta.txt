@@ -1,4 +1,8 @@
+ni<<<<<<< HEAD
 <<<<<<< HEADaaaa
+=======
+<<<<<<<;
+>>>>>>> beta
 Ini file beta
 =======
 Ini baris kedua
