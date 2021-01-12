@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<;
 Ini file beta
 =======
 Ini baris kedua
