@@ -4,5 +4,5 @@ Resolusi
 - Memiliki motor
 - Merakit komputer sediri
 - Menginstall linux di komputer
-- Menginstall i3 di linux
+- Menginstall openbox di linux
 - Menginstall sesuatu
