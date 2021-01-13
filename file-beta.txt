@@ -1,2 +1,3 @@
 INI ADLAH FILE BETA
 Ini adalah baris kedua
+Ini baris ketiga
