@@ -9,3 +9,4 @@ Ini baris kedua
 >>>>>>> beta
 Ini adalah baris ke sepuluh
 Ini adalah baris ke sebelas
+Ini adalah baris ke duabelas
